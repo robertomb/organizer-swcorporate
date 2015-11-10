@@ -1,7 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
-* Quem Somos
+* [Quem Somos](quem_somos.md)
 * [Planejamento do Evento](planejamento.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Logística](logistica.md)
