@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Planejamento do Evento](planejamento.md)
-* Finanças
+* [Finanças](financas.md)
 
