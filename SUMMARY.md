@@ -8,5 +8,5 @@
 * [Marketing](marketing.md)
 * [Gerenciando o Evento](gerenciando.md)
 * [Pós-evento](pos-evento.md)
-* Apêndice
+* [Apêndice](apendice.md)
 
