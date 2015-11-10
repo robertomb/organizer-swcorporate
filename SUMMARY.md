@@ -6,5 +6,5 @@
 * [Alimentação](alimentacao.md)
 * [Finanças](financas.md)
 * [Marketing](marketing.md)
-* Gerenciando o Evento
+* [Gerenciando o Evento](gerenciando.md)
 
