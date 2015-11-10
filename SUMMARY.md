@@ -1,6 +1,7 @@
 # Summary
 
 * [Introdução](README.md)
+* Quem Somos
 * [Planejamento do Evento](planejamento.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Alimentação](alimentacao.md)
@@ -9,5 +10,4 @@
 * [Gerenciando o Evento](gerenciando.md)
 * [Pós-evento](pos-evento.md)
 * [Apêndice](apendice.md)
-* Quem Somos
 
