@@ -4,5 +4,5 @@
 * [Planejamento do Evento](planejamento.md)
 * [Finanças](financas.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
-* Alimentação
+* [Alimentação](alimentacao.md)
 
