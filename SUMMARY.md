@@ -9,4 +9,5 @@
 * [Gerenciando o Evento](gerenciando.md)
 * [Pós-evento](pos-evento.md)
 * [Apêndice](apendice.md)
+* Quem Somos
 
