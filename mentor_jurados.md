@@ -27,12 +27,13 @@ Designers terão papel fundamental ao orientar os times em como conceber uma exp
 Pessoas que conheçam bem a realidade e o negócio da organização promotora do evento e/ou a temática proposta são de grande importância no time de mentores.  
 
 #### Investidores
-
+Anjos e profissionais de Venture Capital podem ser ótimos mentores. Eles emprestam sua experiência na análise de empreendedores e empreendimentos para o evento. É importante que investidores convidados não abordem os times buscando dealflow, mas sim como parte do ecossistema empreendedor.
 
 #### Profissionais de Aceleradoras e Incubadoras
+Assim como os investidores, estes profissionais fazem parte do ecossistema empreendedor e é importante que os participantes do Startup Weekend os conheçam. O disclaimer é semelhante ao dos investidores: estes profissionais não devem ter em mente recrutamento dos negócios que estão sendo criados.
 
 #### Advogados
-
+Opcionalmente, advogados especialistas em startups podem ser convidados para funciona como fonte de consulta sobre viabilidade jurídica de modelos de negócio.
 
 
 
