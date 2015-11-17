@@ -4,6 +4,8 @@ Mentores, palestrantes e jurados
 ## Mentores
 Os mentores são geralmente citados pelos participantes de um Startup Weekend como um dos recursos mais valiosos disponíveis em um Startup Weekend! Os mentores, por sua vez, enxergam grande valor no trabalho feito com os times durante um Startup Weekend. Não é raro que mentores continuem orientando empreendedores depois de um Startup Weekend.
 
+Em um evento Startup Weekend Corporate geralmente balanceia-se os mentores entre convidados da rede Startup Weekend e profissionais e convidados da própria instituição organizadora do evento.
+
 ### Definindo o número de mentores
 Um mentor para cada 10 participantes (1:10) é um bom cálculo inicial. Mais mentores devem ser convidados em condições especiais, como quando há menos participantes por time - e consequentemente um número total maior de equipes.
 
@@ -15,14 +17,17 @@ Ao selecionar os mentores é importante balancear habilidades, gêneros e perfis
 #### Empreendedores Experientes
 Empreendedores experientes são, em geral, o melhor tipo de mentor a se buscar para um Startup Weekend Corporate. Eles já passaram pelas dificuldades que os times passarão e, certamente, trazem credibilidade às orientações.
 
-#### Desenvolvedores
-Desenvolvedores e gerentes de produto contribuem bastante na concepção das soluções construídas em um Startup Weekend.
+#### Desenvolvedores e Gerentes de Produto
+Desenvolvedores e gerentes de produto contribuem bastante na concepção das soluções construídas em um Startup Weekend. É importante que eles orientem os times como conseguir velocidade no desenvolvimento de suas propostas de solução.
 
 #### Designers
+Designers terão papel fundamental ao orientar os times em como conceber uma experiência completa para o usuário final. Eles deverão ainda contribuir apresentando ferramentas e recursos que otimizem o tempo escasso do fim de semana.
 
 #### Especialistas de Área
+Pessoas que conheçam bem a realidade e o negócio da organização promotora do evento e/ou a temática proposta são de grande importância no time de mentores.  
 
 #### Investidores
+
 
 #### Profissionais de Aceleradoras e Incubadoras
 
