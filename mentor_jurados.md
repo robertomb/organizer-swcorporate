@@ -35,8 +35,11 @@ Assim como os investidores, estes profissionais fazem parte do ecossistema empre
 #### Advogados
 Opcionalmente, advogados especialistas em startups podem ser convidados para funciona como fonte de consulta sobre viabilidade jurídica de modelos de negócio.
 
-
-
+### Metas para os Mentores
+* Guiar os times para focar em construir uma base sólida para uma startup (problema, solução, modelo de negócios, proposta de valor, clientes, time etc.).
+* Direcionar os times para se tornarem especialistas na área de sua potencial startup.
+* Ajudar times a projetar e executar experimentos efetivos (em geral, entrevistas com clientes), analizar os resultados e guiá-los para resultados concretos.
+* Tirar os times da zona de conforto e manter a intensidade do trabalho sempre alta
 
 ## Palestrantes
 
