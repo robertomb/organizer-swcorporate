@@ -9,7 +9,16 @@ Um mentor para cada 10 participantes (1:10) é um bom cálculo inicial. Mais men
 
 Uma quantidade muito grande de mentores pode ser prejudicial ao evento. Os mentores provavelmente interromperão demasiadamente os times, o que não é bom.
 
-Ao selecionar os mentores é importante balancear habilidades, gêneros e perfis
+Ao selecionar os mentores é importante balancear habilidades, gêneros e perfis. Um time equilibrado de mentores impacta positivamente o evento.
+
+### Tipos de Mentores
+- **Empreendedores Experientes**
+- **Desenvolvedores**
+- **Designers**
+- **Especialistas de Área**
+- **Investidores**
+- **Profissionais de Aceleradoras e Incubadoras**
+- **Advogados**
 
 ## Palestrantes
 
