@@ -12,13 +12,25 @@ Uma quantidade muito grande de mentores pode ser prejudicial ao evento. Os mento
 Ao selecionar os mentores é importante balancear habilidades, gêneros e perfis. Um time equilibrado de mentores impacta positivamente o evento.
 
 ### Tipos de Mentores
-- **Empreendedores Experientes**
-- **Desenvolvedores**
-- **Designers**
-- **Especialistas de Área**
-- **Investidores**
-- **Profissionais de Aceleradoras e Incubadoras**
-- **Advogados**
+#### Empreendedores Experientes
+Empreendedores experientes são, em geral, o melhor tipo de mentor a se buscar para um Startup Weekend Corporate. Eles já passaram pelas dificuldades que os times passarão e, certamente, trazem credibilidade às orientações.
+
+#### Desenvolvedores
+Desenvolvedores e gerentes de produto contribuem bastante na concepção das soluções construídas em um Startup Weekend.
+
+#### Designers
+
+#### Especialistas de Área
+
+#### Investidores
+
+#### Profissionais de Aceleradoras e Incubadoras
+
+#### Advogados
+
+
+
+
 
 ## Palestrantes
 
