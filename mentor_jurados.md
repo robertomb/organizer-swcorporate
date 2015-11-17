@@ -42,6 +42,13 @@ Opcionalmente, advogados especialistas em startups podem ser convidados para fun
 * Tirar os times da zona de conforto e manter a intensidade do trabalho sempre alta.
 * Ajudar os times a não se basear em premissas. Todas as premissas devem ser testadas e validadas.
 
+### Erros comuns dos mentores
+* Tomar decisões pelos times.
+* Dizer para os times o que é certo e o que é errado.
+* Fazer o trabalho no lugar dos empreendedores.
+* Dizer aos times o que fazer, ao invés de fazer perguntas que ajudem os participantes a decidir por eles mesmos.
+* Gastar todo seu tempo em um ou dois times.
+
 ## Palestrantes
 
 ## Jurados
