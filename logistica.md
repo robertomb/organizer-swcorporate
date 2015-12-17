@@ -25,7 +25,7 @@ Este é o local que os times usarão no decorrer do fim de semana para desenvolv
 Para este espaço, os seguintes requisitos mínimos devem ser considerados:
 
 * Cadeiras e mesas para acomodar todos os participantes. Em geral dividimos de 6 a 8 cadeiras por mesa de trabalho.
-* Internet! É importante se certificar que a internet oferecida pelo local do evento suporta a demanda. É necessário garantir tanto que o local possui link de internet com largura de banda suficiente para a demanda (recomendamos pelo menos 10 Mbps dedicados) e que a rede wifi suporte a quantidade de usuários conectados simultaneamente (um ponto de acesso wifi comum suporta, em média, 20 usuários conectados ao mesmo tempo).
+* Internet! (vide sessão de Logística).
 
 ### Outros espaços
 Além dos espaços essenciais, outros espaços extras podem contribuir para uma melhor experiência dos participantes.
@@ -48,7 +48,22 @@ As refeições básicas a serem oferecidas são:
 * Café da manhã de domingo.
 * Almoço de domingo
 
+Além disso, água e café sempre à disposição são muito bem vindos.
+
+Os participantes adoram também surpresas no decorrer dos trabalhos. Um pouco do que já se fez em Startup Weekend neste sentido:
+
+* doces, balas e chocolates
+* sorvetes e picolés
+* bebidas energéticas e isotônicos
+* lanches patrocinados, regionais ou temáticos
+* frutas
 
 ## Internet
+É importante se certificar que a internet oferecida pelo local do evento suporta a demanda. É necessário garantir tanto que o local possui link de internet com largura de banda suficiente para a demanda (recomendamos pelo menos 10 Mbps dedicados) e que a rede wifi suporte a quantidade de usuários conectados simultaneamente (um ponto de acesso wifi comum suporta, em média, 20 usuários conectados ao mesmo tempo).
+
+Alguns locais já possuem estrutura cabeada de internet, o que pode ser uma boa alternativa.
+
+## Eletricidade
+Nos espaços de trabalho os participantes precisarão de tomadas para carregar notebooks e celulares. Uma régua de tomadas por grupo é uma boa 
 
 ## Papelaria
