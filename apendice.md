@@ -6,3 +6,4 @@
 * E-mail para alinhamento de jurados
 * Folha de critérios de julgamento
 * Folha de avaliação dos jurados
+* Checklist de logística
