@@ -5,3 +5,4 @@
 * E-mail para convite de jurados
 * E-mail para alinhamento de jurados
 * Folha de critérios de julgamento
+* Folha de avaliação dos jurados
