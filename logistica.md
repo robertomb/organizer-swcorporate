@@ -58,12 +58,19 @@ Os participantes adoram também surpresas no decorrer dos trabalhos. Um pouco do
 * lanches patrocinados, regionais ou temáticos
 * frutas
 
-## Internet
-É importante se certificar que a internet oferecida pelo local do evento suporta a demanda. É necessário garantir tanto que o local possui link de internet com largura de banda suficiente para a demanda (recomendamos pelo menos 10 Mbps dedicados) e que a rede wifi suporte a quantidade de usuários conectados simultaneamente (um ponto de acesso wifi comum suporta, em média, 20 usuários conectados ao mesmo tempo).
+## Internet e Eletricidade
+Como discutido neste guia na sessão de planejamento prévio do evento, é importante que internet e eletricidade estejam funcionando corretamente para que os trabalhos não sejam impactados. Do ponto de vista logístico, considere eventuais investimentos em pontos de acesso wifi, réguas elétricas e extensões e cabos, caso a oferta já existente no local do evento não seja suficiente. 
 
-Alguns locais já possuem estrutura cabeada de internet, o que pode ser uma boa alternativa.
-
-## Eletricidade
-Nos espaços de trabalho os participantes precisarão de tomadas para carregar notebooks e celulares. Uma régua de tomadas por grupo é uma boa 
+Os testes de internet e eletricidade devem ser feitos com antecedência, considerando margem de tempo para ajustes nas instalações.
 
 ## Papelaria
+Fornecer os materiais adequados de papelaria para os participantes garante que eles tenham sempre a mão ferramentas recorrentes para o trabalho do fim de semana.
+
+A lista a seguir descreve os materiais básicos necessários. Tomamos como referência um evento para 100 participantes.
+
+* 30 pacotes de post-it coloridos (dois pacotes para cada time)
+* 15 Business Model Canvas tamanho A3 - disponível no apêndice (um para cada time)
+* 45 canetas hidrocor coloridas (15 de cada cor, 3 para cada time)
+* 100 canetas esferográficas (1 para cada participante)
+* 150 folhas de papel A4 (10 para cada time)
+* 15 flipcharts ou quadro (1 para cada time)
