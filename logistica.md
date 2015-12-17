@@ -50,6 +50,14 @@ As refeições básicas a serem oferecidas são:
 
 Além disso, água e café sempre à disposição são muito bem vindos.
 
+### Planejando a alimentação
+Serviços de buffet/catering podem fazer parte do orçamento geral do evento, mas mesmo sem recursos para um serviço externo desta natureza é possível fornecer grande alimentação para os participantes. Fornecedores locais de comida costumam ser receptivo a fazer cardápios econômicos personalizados e inclusive parcerias em troca de visibilidade.
+
+Caso a organização do Startup Weekend Corporate opte por providenciar a alimentação sem um serviço terceirizado, vale o lembrete que as refeições devem ser encomendadas pelo menos com uma semana de antecedência. A entrega também é um ponto importante a ser considerado, pois o time organizador estará bem ocupado durante os dias de evento. Caso o fornecedor se comprometa em fazer a entrega, pelo menos 30 minutos de antecedência devem ser considerados no horário de entrega.
+
+
+### Extras e surpresas
+
 Os participantes adoram também surpresas no decorrer dos trabalhos. Um pouco do que já se fez em Startup Weekend neste sentido:
 
 * doces, balas e chocolates
