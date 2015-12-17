@@ -8,11 +8,15 @@ A taxa de licenciamento do Startup Weekend Corporate garante a possibilidade de 
 ### Facilitação
 Para cada evento Startup Weekend Corporate, a Techstars aloca obrigatoriamente um facilitador remunerado da rede Startup Weekend. O facilitador atua em parceria com o time organizador garantindo que os aspectos de conteúdo do evento sejam atingidos com sucesso.
 
-O facilitador atua no pré-evento, especialmente na curadoria dos convites de mentores e jurados e na orientação do time organizador.
+O facilitador atua no pré-evento especialmente na curadoria dos convites de mentores e jurados e na orientação do time organizador. Durante o evento, o facilitador assume o papel de mestre de cerimônias e é encarregado pela condução geral do evento.
 
 ### Mentores
+Além das despesas relativas a hotel e transporte para os mentores que vem de outras cidades que não a do evento, é interessante alocar recursos para ajuda de custo para os mentores. Esta ajuda, em forma de diária, tem o objetivo de funcionar como um agradecimento pelo tempo dedicado ao evento.
 
 ### Alimentação
+A alimentação é, certamente, um dos principais custos do orçamento total do evento. Como coberto na sessão de logística deste documento, é importante decidir se uma empresa de catering será contratada ou se as refeições serão providenciadas individualmente.
+
+Em geral, um orçamento de R$ 30 por pessoa para as refeições principais e R$ 20 por pessoa para os lanches é suficiente
 
 ### Local
 
