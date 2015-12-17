@@ -41,8 +41,10 @@ Se há algo que nos preocupamos bastante na logística de um Startup Weekend Cor
 
 As refeições básicas são:
 
-- Jantar ou lanche, na sexta-feira a noite;
-- Café da manh
+* Jantar ou lanche, na sexta-feira a noite;
+* Café da manhã de sábado;
+* Almoço de sábado;
+* Jantar ou lanche, na noite de sábado;
 
 
 ## Internet
