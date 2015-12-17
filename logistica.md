@@ -39,12 +39,14 @@ Além dos espaços essenciais, outros espaços extras podem contribuir para uma 
 ## Alimentação
 Se há algo que nos preocupamos bastante na logística de um Startup Weekend Corporate é a alimentação dos participantes. Refeições gostosas, variadas e preparadas com carinho contribuem sobremaneira para que a impressão geral dos participantes seja positiva. É importante lembrar que isto não significa refeições caras, necessariamente.
 
-As refeições básicas são:
+As refeições básicas a serem oferecidas são:
 
-* Jantar ou lanche, na sexta-feira a noite;
-* Café da manhã de sábado;
-* Almoço de sábado;
-* Jantar ou lanche, na noite de sábado;
+* Jantar ou lanche, na sexta-feira a noite.
+* Café da manhã de sábado.
+* Almoço de sábado.
+* Jantar ou lanche, na noite de sábado.
+* Café da manhã de domingo.
+* Almoço de domingo
 
 
 ## Internet
