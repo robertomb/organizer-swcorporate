@@ -7,3 +7,5 @@
 * Folha de critérios de julgamento
 * Folha de avaliação dos jurados
 * Checklist de logística
+* Business Model Canvas
+* Value Proposition Canvas
