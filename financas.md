@@ -16,7 +16,7 @@ Além das despesas relativas a hotel e transporte para os mentores que vem de ou
 ### Alimentação
 A alimentação é, certamente, um dos principais custos do orçamento total do evento. Como coberto na sessão de logística deste documento, é importante decidir se uma empresa de catering será contratada ou se as refeições serão providenciadas individualmente.
 
-Em geral, um orçamento de R$ 30 por pessoa para as refeições principais e R$ 20 por pessoa para os lanches é suficiente
+Em geral, um orçamento de R$ 30 por pessoa para as refeições principais e R$ 20 por pessoa para os lanches/refeições menores é suficiente. Devem ser também incluídos os custos com materiais para servir, pratos, talheres, copos e guardanapos.
 
 ### Local
 
