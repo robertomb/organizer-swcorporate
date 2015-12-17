@@ -60,7 +60,25 @@ Um Startup Weekend não é um seminário, conferência ou evento de palestras. O
 
 
 ### Tópicos sugeridos para o palestrante
-
-
+* Experiências passadas de Startup Weekend. Participantes de eventos anteriores com grandes histórias - em geral, vencedores ou times que continuaram os projetos depois do fim de semana;
+* Lições aprendidas de startups.
+* Histórias sobre times e sua dinâmica.
+* Bootstrapping vs. investimentos.
+* Lean Startup e validação.
+* Como fazer um grande pitch.
+* Uma história de #fail.
+* História de uma startup local.
 
 ## Jurados
+### A importância de bons jurados
+Em um Startup Weekend, escolhemos de 3 a 5 jurados para avaliar as apresentações finais. O principal objetivo é que esta avaliação tenha caráter didático e forneça feedbacks para os times sobre onde podem melhorar. A experiência de apresentar para uma banca de jurados é também valiosa: para a maioria dos participantes esta será a primeira vez em que estarão apresentando um projeto para investidores ou similares.
+
+Os jurados devem ser tratados com VIPs no evento. O papel deles é de suma importância e geralmente tratam-se de pessoas com tempo restrito - e que fizeram esforços para fazer parte do evento.
+
+### Como construir uma boa banca de jurados
+* Pelo menos um **investidor**, um **empreendedor experiente**, uma pessoa com experiência em **desenvolvimento de produtos** e um **designer** experiente são boas sugestões para a formação básica do time de jurados. Envolver membros da organização promotora do Startup Weekend Corporate é altamente recomendável, mas é importante que estes estejam alinhados com os propósitos do evento.
+* Tente encontrar jurados que não tenham receio em falar a verdade para os times, mas que saibam fornecer feedbacks de maneira construtiva.
+* Jurados não devem ser mentores ou interagir com os times antes das apresentações finais. Se eles fizerem questão de ir ao evento antes, garanta que seja uma visita sem interação com os participantes. O contato prévio pode gerar ruído ou polarização para alguma equipe.
+* Organizadores não devem ser jurados. Os organizadores devem estar focados em entregar um grande evento.
+
+## 
