@@ -9,3 +9,4 @@
 * Checklist de logística
 * Business Model Canvas
 * Value Proposition Canvas
+* Folha de votação de projetos
