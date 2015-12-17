@@ -100,4 +100,9 @@ Alguns pontos a se considerar ao longo do evento:
 Os jurados devem estar cientes que as suas falas devem ser breves e objetivas, permitindo que os times tenham tempo para interagir.
 * **Estimule que todos os jurados participem**
 Jurados mais reservados devem ser estimulados a interagir com os times. Passar a eles o microfone pode ser uma boa ideia.
-* ** **
+* ** Tenha uma folha de avaliação quantitativa **
+Como o processo de julgamento pode se tornar extremamente subjetivo, é importante que os jurados se baseiem nos critérios de avaliação e que dêem notas para as startups (geralmente 1 a 5 é uma boa ideia). No apêndice deste documento fornecemos um link de modelo para a ficha de avaliação.
+* ** Dê tempo aos jurados**
+Nas transições entre os times dê tempo para que os jurados façam anotações, dêem notas e façam ajustes nas notas de equipes anteriores, por exemplo. Este é o tempo que a organização pode usar para a transição de aúdio e vídeo, por exemplo.
+* ** O facilitador está pronto para ajudar nos impasses **
+Não é raro que a decisão de um Startup Weekend seja difícil para os jurados. Apesar da folha de pontuação ser a principal referência para a decisão, o facilitador pode intervir para que a decisão tomada seja equilibrada e justa. O facilitador do evento coordena a decisão final dos jurados. É importante sempre ressaltar que ninguém sai perdendo em um Startup Weekend e que a escolha dos jurados apenas premia um time que tenha evoluído mais claramente.
