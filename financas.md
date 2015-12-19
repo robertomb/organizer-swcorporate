@@ -1,6 +1,6 @@
 # Finanças
 
-## Principais despesas
+Um bom planejamento financeiro de um Startup Weekend Corporate começa por um adequado mapeamento das principais despesas relativas ao evento. Nesta sessão do guia do organizador Startup Weekend Corporate discutiremos os principais pontos de atenção do ponto de vista financeiro.
 
 ### Licenciamento Startup Weekend
 A taxa de licenciamento do Startup Weekend Corporate garante a possibilidade de associação da marca promotora com Startup Weekend e garante o suporte de conteúdo do braço de programas de comunidade da Techstars para o evento.
@@ -27,4 +27,13 @@ Startup Weekends são eventos criativos e diferentes por natureza. O local do ev
 Os itens de papelaria representam custo relativamente baixo comparados ao investimento total no evento, mas esses itens não devem ser esquecidos no dimensionamento financeiro do evento. Comprar post-its e canetas de qualidade, por exemplo, faz toda a diferença para o trabalho dos times.
 
 ### Marketing
-A comunicação é, certamente, ponto crucial para 
+A comunicação é, certamente, ponto crucial para o sucesso de um Startup Weekend Corporate, como discutido neste guia na sessão de marketing.
+
+Os seguintes itens podem ser considerados neste contexto:
+
+* desenvolvimento da identidade visual do evento
+* investimento em mídia pré-evento
+* assessoria de imprensa
+* kit do participante, com impressos e brindes
+* kit de agradecimento para mentores e jurados
+* sinalização visual do evento, incluindo exposição das marcas envolvidas (banners, cartazes, backdrops)
