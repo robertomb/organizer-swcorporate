@@ -85,7 +85,6 @@ A lista a seguir descreve os materiais básicos necessários. Tomamos como refer
 * 150 folhas de papel A4 (10 para cada time)
 * 15 flipcharts ou quadro-branco (1 para cada time)
 
-
 ## Hospedagem e transporte dos mentores
 Caso o evento conte com mentores de outras cidades, o evento deverá providenciar acomodações. Para estes é importante considerar proximidade do local do evento e transporte aeroporto/hotel/evento.
 
