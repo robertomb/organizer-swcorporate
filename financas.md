@@ -19,6 +19,7 @@ A alimentação é, certamente, um dos principais custos do orçamento total do 
 Em geral, um orçamento de R$ 30 por pessoa para as refeições principais e R$ 20 por pessoa para os lanches/refeições menores é suficiente. Devem ser também incluídos os custos com materiais para servir, pratos, talheres, copos e guardanapos.
 
 ### Local
+Usar o próprio espaço da instituição que promove o evento
 
 ### Papelaria
 
