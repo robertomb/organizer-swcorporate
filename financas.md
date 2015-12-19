@@ -2,6 +2,14 @@
 
 Um bom planejamento financeiro de um Startup Weekend Corporate começa por um adequado mapeamento das principais despesas relativas ao evento. Nesta sessão do guia do organizador Startup Weekend Corporate discutiremos os principais pontos de atenção do ponto de vista financeiro.
 
+## Gerenciando as finanças
+Estímulamos que os organizadores de um Startup Weekend Corporate tenham total controle sobre as finanças do evento. Garantir que notas fiscais e recibos sejam coletadas é essencial para o gerenciamento financeiro.
+
+Disponibilizamos um modelo para a planilha de gerenciamento financeiro no apêndice deste documento.
+
+## Despesas típicas
+As seguintes despesas estão 
+
 ### Licenciamento Startup Weekend
 A taxa de licenciamento do Startup Weekend Corporate garante a possibilidade de associação da marca promotora com Startup Weekend e garante o suporte de conteúdo do braço de programas de comunidade da Techstars para o evento.
 
