@@ -10,3 +10,4 @@
 * Business Model Canvas
 * Value Proposition Canvas
 * Folha de votação de projetos
+* Planilha financeira Startup Weekend Corporate
