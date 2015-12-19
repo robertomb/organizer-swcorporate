@@ -24,5 +24,7 @@ Usar o próprio espaço da instituição que promove o evento para a realizaçã
 Startup Weekends são eventos criativos e diferentes por natureza. O local do evento pode contribuir para isso! Já tivemos Startup Weekends realizados em cinemas, estádios de futebol, bibliotecas públicas e em vários outros locais diferentes. Se você optar por alugar um espaço para realizar o evento não deixe de se preocupar em criar uma atmosfera interessante para seu Startup Weekend Corporate.
 
 ### Papelaria
+Os itens de papelaria representam custo relativamente baixo comparados ao investimento total no evento, mas esses itens não devem ser esquecidos no dimensionamento financeiro do evento. Comprar post-its e canetas de qualidade, por exemplo, faz toda a diferença para o trabalho dos times.
 
 ### Marketing
+A comunicação é, certamente, ponto crucial para 
