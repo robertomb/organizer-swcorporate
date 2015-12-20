@@ -50,3 +50,20 @@ O facilitador está presente no evento para, acima de tudo, garantir a experiên
 * Auxiliar o time organizador nas tarefas finais de organização do evento. 
 * Documentar as "lições aprendidas" para eventos futuros.
 * Garantir que a rede formada no evento continue se comunicando.
+
+## Agenda da Sexta-feira
+A sexta-feira é, certamente, o dia que requer mais cuidados do fim de semana. Não importa o quão detalhista foi a organização prévia, sempre haverá detalhes de última hora para se lidar. O importante é manter a calma e o planejamento e tudo sairá bem. Voluntários podem ser convidados para ajudar nas tarefas operacionais, caso o time organizador julgue necessário.
+
+Sobretudo, lembre-se que a sexta-feira é, por definição, caótica: estamos falando para 30-130 estranhos compartilharem suas ideias mais queridas e que se unam a estranha para executá-las! O mais importante é ser flexível e não microgerenciar.
+
+### Manhã de sexta: comunicação
+Use a plataforma de inscrições para enviar um email final para os participantes. Alguns itens que devem ser cobertos:
+
+* Recursos fornecidos para os participantes, como códigos promocionais de domínio, hospedagem etc.
+* Instruções sobre como chegar ao local do evento, incluindo informações sobre estacionamento e transporte público.
+* Linha do tempo dos principais horários do dia: credenciamento, horário da refeição, horário de encerramento.
+* Como os pitches de sexta irão funcionar. 
+
+É importante também garantir que as ações promocionais (como Twitter e Facebook) continuem a acontecer. 
+
+## Agenda do Sábado
