@@ -24,6 +24,29 @@ O facilitador está presente no evento para, acima de tudo, garantir a experiên
 
 ## Tarefas do facilitador
 
-### Pré evento - Prepação
-* Auxiliar no planejamento da comunicação do evento.
-* 
+### Pré evento: preparação
+* Auxiliar no planejamento da comunicação do evento e garantir que esta atenda os padrões esperados.
+* Garantir que a comunicação pré-evento com os participantes aconteça de maneira satisfatória.
+
+### Sexta-feira: pontapé inicial
+* Coordenar a apresentação inicial do evento.
+* Liderar icebreakers (se aplicável).
+* Gerenciar o processo de pitches.
+* Gerenciar o processo de votação.
+* Gerenciar o processo de formação dos times.
+
+### Sábado: construindo
+* Garantir que o trabalho dos times possa acontecer corretamente.
+* Gerenciar o processo mentores-times e garantir que as mentorias aconteçam corretamente.
+* Manter a energia alta - usar música, fazer pontos de controle etc.
+
+### Domingo: apresentando
+* Receber e preparar os jurados.
+* Liderar o processo das apresentações finais.
+* Gerenciar o processo de premiação.
+
+### Pós-evento: encerrando
+* Agradecer todos os envolvidos no evento.
+* Auxiliar o time organizador nas tarefas finais de organização do evento. 
+* Documentar as "lições aprendidas" para eventos futuros.
+* Garantir que a rede formada no evento continue se comunicando.
