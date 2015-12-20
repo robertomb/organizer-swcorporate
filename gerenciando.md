@@ -21,3 +21,9 @@ O facilitador está presente no evento para, acima de tudo, garantir a experiên
 * Suportar o time organizador antes, durante e depois do evento. Isso inclui compartilhar experiências de outros Startup Weekend, lidar com participantes insatisfeitos ou até mesmo ajudar na limpeza do local do evento.
 
 É importante ressaltar que não é objetivo do facilitador "roubar o show" do time organizador. Pelo contrário, o facilitador está no Startup Weekend Corporate para garantir que o time organizador tenha visibilidade perante os participantes e demais envolvidos no evento, permitindo que o evento atenda a todas as expectativas. O facilitador agirá sempre em parceria com os organizadores e demandará o time organizador por diversas vezes para conduzir atividades e interagir com os participantes.
+
+## Tarefas do facilitador
+
+### Pré evento - Prepação
+* Auxiliar no planejamento da comunicação do evento.
+* 
