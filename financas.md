@@ -3,12 +3,19 @@
 Um bom planejamento financeiro de um Startup Weekend Corporate começa por um adequado mapeamento das principais despesas relativas ao evento. Nesta sessão do guia do organizador Startup Weekend Corporate discutiremos os principais pontos de atenção do ponto de vista financeiro.
 
 ## Gerenciando as finanças
-Estímulamos que os organizadores de um Startup Weekend Corporate tenham total controle sobre as finanças do evento. Garantir que notas fiscais e recibos sejam coletadas é essencial para o gerenciamento financeiro.
+Estímulamos que os organizadores de um Startup Weekend Corporate tenham total controle sobre as finanças do evento. Garantir que notas fiscais e recibos sejam coletadas é essencial para o gerenciamento financeiro. 
+
+É importante também manter um controle sobre custos que não serão pagos em dinheiro ou serão cedidos pela instituição organizadora ou parceiros.
 
 Disponibilizamos um modelo para a planilha de gerenciamento financeiro no apêndice deste documento.
 
+## Quanto custa um Startup Weekend Corporate?
+A resposta a esta pergunta pode variar bastante, mas tenha sempre em mente que Startup Weekend são eventos *lean* e que uma das nossas maiores preocupações é sempre que os organizadores consigam entregar grandes experiências de eventos sem um custo impactante.
+
+Recomendamos que você utilize nossa planilha financeira modelo que está no apêndice para fazer sua previsão inicial de gastos. Separar um orçamento total de 1.5x o valor estimado te dará segurança para lidar com gastos não-previstos.
+
 ## Despesas típicas
-As seguintes despesas estão 
+As despesas que discutimos a seguir estão, em geral, presentes em um Startup Weekend Corporate e são o ponto de partida para a definição do orçamento do evento.
 
 ### Licenciamento Startup Weekend
 A taxa de licenciamento do Startup Weekend Corporate garante a possibilidade de associação da marca promotora com Startup Weekend e garante o suporte de conteúdo do braço de programas de comunidade da Techstars para o evento.
@@ -45,3 +52,4 @@ Os seguintes itens podem ser considerados neste contexto:
 * kit do participante, com impressos e brindes
 * kit de agradecimento para mentores e jurados
 * sinalização visual do evento, incluindo exposição das marcas envolvidas (banners, cartazes, backdrops)
+
