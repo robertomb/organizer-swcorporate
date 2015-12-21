@@ -20,5 +20,3 @@ Ao escrever, lembre-se sempre de dar o toque pessoal da organização do evento 
 
 Este e-mail é uma ótima oportunidade também para enviar o resumo do evento.
 
-
-
