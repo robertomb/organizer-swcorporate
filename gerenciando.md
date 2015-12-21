@@ -168,7 +168,7 @@ O facilitador poderá convidar os jurados para fazer o anúncio dos vencedores, 
 * solicitar ajuda para que todos organizem seu lixo e facilitem o trabalho da organização.
 * convidar todos para a foto oficial do evento.
 
-Organizar uma confraternização final em um bar ou restaurante local é uma ótima oportunidade para manter a boa vibração do fim de semana e o contato entre participantes, organização, mentores e jurados.
+Organizar uma confraternização final em um bar ou restaurante local é uma ótima oportunidade para manter a boa vibração do fim de semana e o contato entre participantes, organização, mentores e jurados. Celebrar as conquistas e os aprendizados do fim de semana é essencial para manter o *momentum*!
 
 ### Como ferrar seu evento: erros comuns do Domingo
 * Permitir que os times não façam a checagem técnica e o ensaio antes da apresentação final (pelo menos duas horas de antecedência).
