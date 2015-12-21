@@ -131,6 +131,9 @@ Não se esqueça também de lembrar os veículos de imprensa locais sobre o even
 ## Agenda do Domingo
 O domingo marca o encerramento da jornada em um Startup Weekend Corporate. É bem comum que os times "acordem" no início do Domingo que gastaram mais tempo do que deveriam em brainstorms e que há muito pouco tempo até as apresentações finais. O facilitador, os mentores e o time organizador terão muitas dúvidas a responder. Nesse sentido, os pontos aqui discutidos merecem atenção especial.
 
+### Alimentação e manutenção geral
+Assim como no sábado, as refeições devem ser bem preparadas e os horários planejados com os fornecedores. Lembre-se que ao fim do domingo você provavelmente deverá "entregar"
+
 ### Ensaios e checagem técnica
 Na manhã ou início da tarde de domingo, o facilitador conduzirá ensaios das apresentações finais. Este momento tem como objetivo principal garantir que o time tenha testado sua apresentação - mesmo que em um estágio inicial - com os recursos de áudio e vídeo do local das apresentações finais.
 
@@ -168,7 +171,7 @@ O facilitador poderá convidar os jurados para fazer o anúncio dos vencedores, 
 Organizar uma confraternização final em um bar ou restaurante local é uma ótima oportunidade para manter a boa vibração do fim de semana e o contato entre participantes, organização, mentores e jurados.
 
 ### Como ferrar seu evento: erros comuns do Domingo
-* Permitir que os times não façam a checagem técnica.
+* Permitir que os times não façam a checagem técnica e o ensaio antes da apresentação final (pelo menos duas horas de antecedência).
 * Não alinhar corretamente critérios com os jurados.
 * Não controlar o tempo de início das apresentaçÕes finais e a duração de cada apresentação.
 * Expulsar os participantes do local assim que as apresentações terminarem, sem fornecer tempo para um bate papo final.
