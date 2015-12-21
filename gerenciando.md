@@ -116,7 +116,7 @@ Os mentores são parte essencial do fim de semana. O facilitador terá entrado c
 
 Os mentores terão níveis diferentes de disponibilidade para o fim de semana: enquanto uns ficarão no local do evento o tempo todo, outros terão um tempo limitado para atender os times. Seu facilitador criará "slots" de algumas horas e convidará os mentores a participar de quantos puderem. Ao início de cada um desses slots, o facilitador e a organização fazem as boas vindas e atualizam os mentores que estão chegando sobre o andamento das mentorias.
 
-No apêndice deste guia há uma cópia do Guia do Mentor Startup Weekend.
+No apêndice deste guia há uma cópia do Guia Rápido do Mentor Startup Weekend, que deverá ser impresso e repassado aos mentores.
 
 ### Alimentação e manutenção geral
 
