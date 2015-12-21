@@ -11,3 +11,5 @@
 * Value Proposition Canvas
 * Folha de votação de projetos
 * Planilha financeira Startup Weekend Corporate
+* E-mail para manhã de sexta-feira
+* E-mail para manhã de sábado
