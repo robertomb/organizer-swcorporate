@@ -74,6 +74,15 @@ Use a plataforma de inscrições para enviar um email final para os participante
 * Organize as credenciais que serão fornecidas aos participantes em ordem alfabética. Isso agilizará o processo de distribuição.
 
 #### Layout
+* Visualize o layout geral para a noite de sexta-feira e garanta que há cadeiras para acomodar todos os participantes e convidados (imprensa e patrocinadores).
+* Providencie que as mesas onde será servida a alimentação não esteja em locais que gerem gargalos.
+* Organize as mesas de trabalho dos times nos locais de trabalho e garanta que todas elas tenham os materiais necessários: post-its, papel e canetas, por exemplo.
+* Garanta que os locais de evento terão cestos de lixo distribuídos.
+* Cheque se o ar condicionado está operacional, qual o procedimento para mudar a temperatura, se necessário, e se não há nenhuma rotina de desligamento programado.
+* Teste o wifi e garanta que está funcionando corretamente, preferencialmente com vários computadores e celulares conectados.
+* Sinalize áreas de acesso proibido.
+* Cheque os banheiros e se eles estão adequadamente equipados para o uso.
+* Vibe! Música cria uma atmosfera positiva para o evento. Startup Weekends não são conferências formais, mas sim eventos divertidos e descontraídos. Começar desde a sexta deixando isso claro para todos os envolvidos vai ajudar que o evento seja um sucesso.
 
 
 
