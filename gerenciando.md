@@ -123,5 +123,7 @@ As refeições são um ponto que merecem atenção especial. No sábado, recomen
 
 Muito lixo e bagunça sempre será gerado, mas gostamos sempre de envolver os participantes no processo de deixar os locais do evento minimamente organizados. Avisar sobre onde estão os cestos de lixo, por exemplo, é sempre de bom tom. Estímulamos também a coleta seletiva e que todos evitem desperdícios.
 
-### Social media e blog
+### Mídias sociais e imprensa
 Manter o evento vivo para o mundo externo é algo que nunca deve ser deixado de lado. Posts sobre os acontecimentos interessantes do evento em Facebook e Twitter, por exemplo, envolvem outros membros da comunidade que não estão presentes no evento. Estimular que os participantes também façam seus próprios posts com a hashtag do evento gera sempre resultados interessantes.
+
+Não se esqueça também de lembrar os veículos de imprensa locais sobre o evento. Tratar bem os jornalistas, fornecendo informações que facilitem seu trabalho, é a maneira mais simples de conseguir boa cobertura de mídia. Preparar um resumo com descrições dos times e boas histórias, ter sempre mentores, participantes e organizadores que estejam dispostos a dar entrevistas e separar boas fotos do evento é uma boa estratégia.
