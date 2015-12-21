@@ -66,7 +66,7 @@ Use a plataforma de inscrições para enviar um email final para os participante
 
 É importante também garantir que as ações promocionais (como Twitter e Facebook) continuem a acontecer e que não aconteça um "apagão" nas rede sociais durante o evento. Com as tarefas que aparecerão durante o evento é bem comum que isso aconteça, portanto vale a pena definir os responsáveis por manter as redes sociais do evento movimentadas durante o evento.
 
-### Tarde de sábado: setup
+### Tarde de sexta: setup
 #### Credenciamento
 * Pelo menos duas pessoas da organização devem ser designadas para a mesa de credenciamento na sexta.
 * Garanta que internet e tomadas estejam disponíveis na mesa de credenciamento, assim o checkin dos participantes poderá ser feito online.
