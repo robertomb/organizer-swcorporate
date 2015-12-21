@@ -99,3 +99,13 @@ Com o fim da sexta você poderá começar a se preocupar com o café da manhã d
 * Esquecer de colocar música. Boa música, em volume adequado e nos momentos certos, faz muita diferença. As playlists de serviços como Superplayer e Spotify podem ajudar muito!
 
 ## Agenda do Sábado
+O sábado é um dia de bastante trabalho duro para os times e talvez o dia em que a organização pode respirar mais. Isto não significa, entretanto, que há bastante trabalho a ser feito. Os times terão dúvidas das mais diversas, o trabalho dos mentores merece atenção próxima e há pelo menos três refeições para serem gerenciadas.
+
+### E-mail da manhã de sábado
+
+
+### Gerenciando mentores
+
+### Alimentação e manutenção geral
+
+### Social media e blog
