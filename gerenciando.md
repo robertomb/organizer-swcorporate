@@ -119,5 +119,9 @@ Os mentores terão níveis diferentes de disponibilidade para o fim de semana: e
 No apêndice deste guia há uma cópia do Guia Rápido do Mentor Startup Weekend, que deverá ser impresso e repassado aos mentores.
 
 ### Alimentação e manutenção geral
+As refeições são um ponto que merecem atenção especial. No sábado, recomendamos café da manhã, almoço e um lanche ou jantar à noite. Todas estas refeições demandam esforço do time organizador em preparar o ambiente, conduzir os participantes e deixar o ambiente limpo e organizado após. 
+
+Muito lixo e bagunça sempre será gerado, mas gostamos sempre de envolver os participantes no processo de deixar os locais do evento minimamente organizados. Avisar sobre onde estão os cestos de lixo, por exemplo, é sempre de bom tom. Estímulamos também a coleta seletiva e que todos evitem desperdícios.
 
 ### Social media e blog
+Manter o evento vivo para o mundo externo é algo que nunca deve ser deixado de lado. Posts sobre os acontecimentos interessantes do evento em Facebook e Twitter, por exemplo, envolvem outros membros da comunidade que não estão presentes no evento. Estimular que os participantes também façam seus próprios posts com a hashtag do evento gera sempre resultados interessantes.
