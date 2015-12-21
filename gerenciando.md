@@ -84,6 +84,9 @@ Use a plataforma de inscrições para enviar um email final para os participante
 * Cheque os banheiros e se eles estão adequadamente equipados para o uso.
 * Vibe! Música cria uma atmosfera positiva para o evento. Startup Weekends não são conferências formais, mas sim eventos divertidos e descontraídos. Começar desde a sexta deixando isso claro para todos os envolvidos vai ajudar que o evento seja um sucesso.
 
+### Fala inicial, pitches e votação
+Gerenciar estes processos é responsabilidade do facilitador, mas o time organizador pode ajudar bastante no gerenciamento da platéia. Conversar sobre isso com o facilitador com tempo hábil é altamente recomendado.
 
+Após o fim da votação o processo de formação dos times deve se estender por uma ou até duas horas. O ideal é que os times tomem suas posições ainda na noite de sexta-feira, mas recomendamos fortemente que este processo não seja forçado. Quanto mais orgânica a formação de times for, melhor.
 
 ## Agenda do Sábado
