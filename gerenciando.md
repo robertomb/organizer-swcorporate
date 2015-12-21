@@ -70,7 +70,10 @@ Use a plataforma de inscrições para enviar um email final para os participante
 #### Credenciamento
 * Pelo menos duas pessoas da organização devem ser designadas para a mesa de credenciamento na sexta.
 * Garanta que internet e tomadas estejam disponíveis na mesa de credenciamento, assim o checkin dos participantes poderá ser feito online.
-* 
+* Aloque o kit do participante e outros brindes que serão entregues aos participantes em local acessível.
+* Organize as credenciais que serão fornecidas aos participantes em ordem alfabética. Isso agilizará o processo de distribuição.
+
+#### Layout
 
 
 
