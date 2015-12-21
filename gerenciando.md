@@ -89,4 +89,13 @@ Gerenciar estes processos é responsabilidade do facilitador, mas o time organiz
 
 Após o fim da votação o processo de formação dos times deve se estender por uma ou até duas horas. O ideal é que os times tomem suas posições ainda na noite de sexta-feira, mas recomendamos fortemente que este processo não seja forçado. Quanto mais orgânica a formação de times for, melhor.
 
+Com o fim da sexta você poderá começar a se preocupar com o café da manhã do sábado.
+
+### Como ferrar seu evento: erros comuns na sexta-feira
+* Esquecer de agradecer parceiros e patrocinadores no palco.
+* Deixar palestrantes, patrocinadores ou até você mesmo se estender demais no microfone - use o cronômetro o tempo todo!.
+* Colocar várias (e longas) palestras: ninguém vem a um Startup Weekend para ver uma palestra, por mais interessante que ela possa ser. Lembre-se: "no talk, all action".
+* Apressar o processo de formação dos times. O processo deve ser, ao máximo, orgânico. Este é um dos momentos mais importantes de um Startup Weekend.
+* Esquecer de colocar música. Boa música, em volume adequado e nos momentos certos, faz muita diferença. As playlists de serviços como Superplayer e Spotify podem ajudar muito!
+
 ## Agenda do Sábado
