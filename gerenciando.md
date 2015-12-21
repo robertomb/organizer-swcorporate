@@ -102,7 +102,14 @@ Com o fim da sexta você poderá começar a se preocupar com o café da manhã d
 O sábado é um dia de bastante trabalho duro para os times e talvez o dia em que a organização pode respirar mais. Isto não significa, entretanto, que há bastante trabalho a ser feito. Os times terão dúvidas das mais diversas, o trabalho dos mentores merece atenção próxima e há pelo menos três refeições para serem gerenciadas.
 
 ### E-mail da manhã de sábado
+Buscando minimizar a quantidade de informações fornecidas cara-a-cara, o e-mail da manhã de sábado visa fornecer um resumo dos principais acontecimento e informações úteis do dia.
 
+Este e-mail deve conter:
+
+* Agenda do dia com informações sobre horários, especialmente horários das refeições e de encerramento dos trabalhos do dia.
+* O básico sobre as apresentações finais, especialmente tempo de apresentação e critérios de julgamento.
+* A agenda com os horários de mentorias do sábado.
+* Informações sobre os mentores, como mini-biografia e áreas de especialidade.
 
 ### Gerenciando mentores
 
