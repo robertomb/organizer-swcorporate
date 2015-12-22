@@ -23,3 +23,25 @@ Um ponto importantíssimo: o importante não é a ideia, é o time. Startup Week
 
 Ao se associar a este movimento, sua marca posiciona-se também como parte essencial deste movimento! Os participantes enxergam os parceiros Startup Weekend como instituições que entenderam a revolução que as startups trazem para nossa sociedade, em especial para a economia.
 
+## Perguntas frequentes
+Durante a organização de um Startup Weekend Corporate você, como organizador, vai receber várias perguntas. Separamos aqui os pontos de dúvida mais recorrentes, mas não hesite em consultar a Techstars em caso de dúvida.
+
+* **Apenas ideias novas (sem trabalho concreto executado) podem ser levadas para um Startup Weekend**
+Um Startup Weekend é um evento para novas ideias. Isto coloca todos os participantes em igualdade de condições e garante que o objetivo maior de criar um ambiente de colaboração e aprendizagem seja alcançado.
+
+* **Qualquer um é bem-vindo a um Startup Weekend, não importa experiência ou habilidades**
+Manter o evento completamente aberto a diferentes idades, gêneros e etnias transmite uma mensagem muito importante: o Startup Weekend não é um clube elitista. Nossa missão é inspirar atitude empreendedora na vida das pessoas. Percebemos também que a diversidade de audiência melhora os resultados alcançados pelo evento. Se há alguma restrição específica da sua instituição quanto a audiência do evento, comunique o time da Techstars.
+
+* **O ambiente será seguro **
+Todos os participantes devem concordar com um código de conduta, disponível na inscrição. Isto garante um ambiente agradável a todos e que respeita as diferenças. O facilitador e o time organizador estarão sempre atentos a este aspecto.
+
+* **Os participantes podem apresentar ideias em torno de assuntos delicados **
+Se for legalmente permitido, sim, os participantes podem apresentar ideias sobre assuntos polêmicos como pornografia. Entretanto esperamos que o assunto seja tratado de maneira ética e profissional e que nenhum participante se sinta constrangido.
+
+* ** Nenhum contrato ou documento legal é permitido durante o evento** 
+Documentos legais são um assunto para especialistas, e para depois do evento. Se surgir algum problema neste sentido, o facilitador está treinado para ajudar os participantes a resolver o problema.
+
+* ** Propriedade intelectual e equity são problemas a ser resolvidos pelo time, como em qualquer startup**
+O evento não toma parte em qualquer discussão de caráter de propriedade intelectual ou divisão de equity que venha a surgir dentro do time. Como em qualquer startup, espera-se que o time seja hábil o suficiente para lidar com qualquer situação relativa a este assunto que possa aparecer. Apesar de potencialmente o evento contar com mentores especialistas em assuntos legais, eles estão formalmente orientados a não fornecer feedback neste sentido. Percebemos também que times que focam no trabalho a ser entregue e deixam o assunto legal para ser tratado apenas quando realmente for necessário tem muito mais sucesso.
+
+
