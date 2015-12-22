@@ -1,9 +1,8 @@
 # Summary
 
 * [Introdução](README.md)
-* [Quem Somos](quem_somos/quem_somos.md)
+* [Quem Somos](quem_somos/quemsomos.md)
    * [Sobre a Techstars](quem_somos/techstars.md)
-   * [Sobre o Startup Weekend Corporate](quem_somos/techstars.md)
 * [Planejamento do Evento](planejamento.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Logística](logistica.md)
