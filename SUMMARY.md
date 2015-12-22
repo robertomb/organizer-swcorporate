@@ -22,7 +22,7 @@
 * [Finanças](financas/financas.md)
    * [Gerenciando as finanças](financas/gerenciandofinancas.md)
    * [Despesas típicas](financas/despesas.md)
-* [Gerenciando o Evento](gerenciando.md)
+* [Gerenciando o Evento](gerenciando/gerenciando.md)
    * [O papel do facilitador](gerenciando/facilitador.md)
    * [Agenda de sexta-feira](gerenciando/sexta.md)
    * [Agenda de sábado](gerenciando/sabado.md)
