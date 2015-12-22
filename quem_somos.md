@@ -1,3 +1,0 @@
-# Quem Somos
-
-teste
