@@ -16,6 +16,8 @@
    * [Espaços](logistica/espacos.md) 
    * [Alimentação](logistica/alimentacao.md)
    * [Internet e eletricidade](logistica/internet.md)
+   * [Papelaria](logistica/papelaria.md)
+   * [Hospedagem e transporte](logistica/hospedagem.md)
 * [Marketing](marketing.md)
 * [Finanças](financas.md)
 * [Gerenciando o Evento](gerenciando.md)
