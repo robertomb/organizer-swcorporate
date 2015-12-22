@@ -1,6 +1,6 @@
 # Audiência e contexto do Evento
 ## Definindo audiência do evento
-Um Startup Weekend Corporate pode ser focado em dois tipos de participantes, em geral.
+O aspecto mais importante de um evento sempre será seus participantes. Um Startup Weekend Corporate pode ser focado em dois tipos de participantes, em geral.
 
 ### Colaboradores da organização
 Neste formato os participantes do evento são colaboradores da organização que promove o evento. Com esta audiência em mente, o seu evento estará contribuindo para que as práticas e metodologias do universo de startups sejam absorvidas em projetos internos, tornando a organização mais ágil.
