@@ -13,3 +13,10 @@ Lembre-se: para cada audiência a mensagem deve ser sempre customizada para não
 Se a sua audiência for interna, bem provavelmente os desenvolvedores tem alguma lista de e-mails ou reunião periódica em que você poderá falar sobre o evento. Neste caso, é importante que o evento seja posicionado como uma oportunidade de colocar ideias "malucas" em prática e melhorar a organização, ao mesmo tempo em que se aprende sobre empreendedorismo e negócios.
 
 ## Atraindo designers
+Designers são sabidamente essenciais para um Startup Weekend Corporate. Eles conseguem entender as necessidades e anseios dos clientes e traduzem isso em uma experiência do usuário atraente e eficiente. Entretanto, a tarefa de atraí-los para o evento requer atenção especial.
+
+Assim como desenvolvedores, designers tem suas comunidades online e offline bem consolidadas. Interagir com esses grupos, mostrando como o Startup Weekend Corporate pode ser uma grande oportunidade para trabalhar e aprender ao lado de grandes desenvolvedores e profissionais de negócio é uma boa estratégia.
+
+É importante ressaltar na comunicação com designers que participar de um Startup Weekend Corporate não significa "trabalhar de graça" durante um fim de semana, mas sim a oportunidade de conhecer possíveis ótimos co-fundadores ou até mesmo uma nova oportunidade profissional.
+
+Quando se trata de um evento focado em audiência interna, a comunicação com os designers devem considerar também
