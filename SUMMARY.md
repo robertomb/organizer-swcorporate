@@ -1,8 +1,8 @@
 # Summary
 
 * [Introdução](README.md)
-* [Quem Somos](quem_somos.md)
-    * [Writing is nice](quem_somos/teste.md)
+* [Quem Somos](quem_somos/quem_somos.md)
+   * [Writing is nice](quem_somos/teste.md)
 * [Planejamento do Evento](planejamento.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Logística](logistica.md)
