@@ -6,6 +6,7 @@
    * [Sobre o Startup Weekend Corporate](quem_somos/swcorporate.md)
 * [Planejamento do Evento](planejamento/planejamento.md)
    * [Audiência e contexto do Evento ](planejamento/audiencia.md)
+   * [Definindo a data do evento](planejamento/data.md) 
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Logística](logistica.md)
 * [Marketing](marketing.md)
