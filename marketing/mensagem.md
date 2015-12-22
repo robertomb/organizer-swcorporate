@@ -29,6 +29,9 @@ Durante a organização de um Startup Weekend Corporate você, como organizador,
 * **Apenas ideias novas (sem trabalho concreto executado) podem ser levadas para um Startup Weekend**
 Um Startup Weekend é um evento para novas ideias. Isto coloca todos os participantes em igualdade de condições e garante que o objetivo maior de criar um ambiente de colaboração e aprendizagem seja alcançado.
 
+* **Qual a diferença de um Startup Weekend Corporate para a versão tradicional? **
+Em essência, pouco (ou nada) muda para um participante. Um Startup Weekend Corporate segue o mesmo modelo de um evento organizado pela comunidade, com a diferença que há uma marca parceira organizando o evento. Em casos que houver alguma customização do modelo original, como audiência ou contextos específicos, isto deve estar bem claro em toda a comunicação do evento. 
+
 * **Qualquer um é bem-vindo a um Startup Weekend, não importa experiência ou habilidades**
 Manter o evento completamente aberto a diferentes idades, gêneros e etnias transmite uma mensagem muito importante: o Startup Weekend não é um clube elitista. Nossa missão é inspirar atitude empreendedora na vida das pessoas. Percebemos também que a diversidade de audiência melhora os resultados alcançados pelo evento. Se há alguma restrição específica da sua instituição quanto a audiência do evento, comunique o time da Techstars.
 
@@ -42,6 +45,6 @@ Se for legalmente permitido, sim, os participantes podem apresentar ideias sobre
 Documentos legais são um assunto para especialistas, e para depois do evento. Se surgir algum problema neste sentido, o facilitador está treinado para ajudar os participantes a resolver o problema.
 
 * ** Propriedade intelectual e equity são problemas a ser resolvidos pelo time, como em qualquer startup**
-O evento não toma parte em qualquer discussão de caráter de propriedade intelectual ou divisão de equity que venha a surgir dentro do time. Como em qualquer startup, espera-se que o time seja hábil o suficiente para lidar com qualquer situação relativa a este assunto que possa aparecer. Apesar de potencialmente o evento contar com mentores especialistas em assuntos legais, eles estão formalmente orientados a não fornecer feedback neste sentido. Percebemos também que times que focam no trabalho a ser entregue e deixam o assunto legal para ser tratado apenas quando realmente for necessário tem muito mais sucesso.
+O evento não toma parte em qualquer discussão de caráter de propriedade intelectual ou divisão de equity que venha a surgir dentro do time. Como em qualquer startup, espera-se que o time seja hábil o suficiente para lidar com qualquer situação relativa a este assunto que possa aparecer. Apesar de potencialmente o evento contar com mentores especialistas em assuntos legais, eles estão formalmente orientados a não fornecer feedback neste sentido. Percebemos também que times que focam no trabalho a ser entregue e deixam o assunto legal para ser tratado apenas quando realmente for necessário tem muito mais sucesso. Idealmente, as questões sobre como o time vai evoluir para uma empresa real devem ser tratadas após o evento.
 
 
