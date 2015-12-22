@@ -8,7 +8,7 @@
    * [Audiência e contexto do Evento ](planejamento/audiencia.md)
    * [Definindo a data do evento](planejamento/data.md)
    * [Orçando o evento](planejamento/orcamento.md)
-   * [Wifi](planejamento/wifi.md)
+   * [Planejamento operacional](planejamento/operacional.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Logística](logistica.md)
 * [Marketing](marketing.md)
