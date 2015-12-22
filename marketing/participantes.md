@@ -4,4 +4,5 @@ Identificar quem se quer atingir e a audiência ideal para o evento é um dos pr
 É interessante que estes valores alvo sejam mantidos inclusive em eventos focados em audiência interna, como os colaboradores de uma empresa. Sabemos que pode haver dificuldade em atrair alguma audiência específica numa situação assim e nossa recomendação é que o time organizador se preocupe com este desafio desde o início da organização. Uma sugestão é fazer parcerias com universidades, por exemplo. 
 
 
-
+## Desenvolvedores
+Um dos melhores locais para se atrair
