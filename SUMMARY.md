@@ -2,7 +2,8 @@
 
 * [Introdução](README.md)
 * [Quem Somos](quem_somos/quem_somos.md)
-   * [Writing is nice](quem_somos/teste.md)
+   * [Sobre a Techstars](quem_somos/techstars.md)
+   * [Sobre o Startup Weekend Corporate](quem_somos/techstars.md)
 * [Planejamento do Evento](planejamento.md)
 * [Mentores, palestrantes e jurados](mentor_jurados.md)
 * [Logística](logistica.md)
