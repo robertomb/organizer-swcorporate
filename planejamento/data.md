@@ -1,5 +1,4 @@
 # Definindo a data do evento
-## Definindo a data do evento
 Escolher a data de um evento Startup Weekend Corporate requer cuidados que visam potencializar o interesse pelo evento e, consequetemente, o impacto gerado. Em geral, 3 meses de antecedência é um prazo razoável para se organizar um Startup Weekend Corporate. 
 
 Os seguintes cuidados devem ser tomados na escolha da data:
