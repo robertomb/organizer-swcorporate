@@ -7,8 +7,8 @@
 * [Folha de critérios de julgamento](https://docs.google.com/document/d/1Z4NP2RsbJ_jY0gEb6okWNN6fQca--Z15WkUD4g7Ekp4/edit?usp=sharing)
 * [Folha de avaliação dos jurados](https://docs.google.com/spreadsheets/d/19ARtCosmafPqhzETj9nH2I1Ii05E7vLOGe82M2Gk98E/edit?usp=sharing)
 * Checklist de logística
-* Business Model Canvas
-* Value Proposition Canvas
+* [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
+* [Value Proposition Canvas](http://mightywisemedia.com/media/VP-Canvas-Triggers_B1.pdf)
 * Folha de votação de projetos
 * Planilha financeira Startup Weekend Corporate
 * E-mail participantes manhã de sexta-feira
