@@ -5,7 +5,6 @@ Seja bem vindo(a)! Se você chegou até este guia bem provavelmente você está 
 
 Ao escolher organizar um Startup Weekend você está se juntando a uma rede que já impactou mais de 200 mil empreendedores pelo mundo e pode certamente contribuir para inovação na sua corporação.
 
-
 ## Como usar este guia
 Este guia foi consolidado de diversas fontes para ser a sua referência principal na organização de um Startup Weekend Corporate. Além do formato original do Startup Weekend que acontece organizado por líderes de comunidades de startups, este guia agrega também a experiência adquirida na organização de eventos Startup Weekend Corporate no Brasil.
 
