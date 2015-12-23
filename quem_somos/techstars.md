@@ -4,3 +4,5 @@ A Techstars é um ecossistema global que empodera empreendedores para trazer nov
 Visando expandir seus trabalhos no desenvolvimento de comunidades, a Techstars adquiriu em 2015 a UP Global, mantenedora dos programas Startup Weekend, Startup Next, Startup Week e Startup Digest. As iniciativas são hoje parte do braço de programas de comunidade da Techstars.
 
 A Techstars foi fundada por David Cohen, Brad Feld, David Brown e Jared Polis em 2006. Ela teve início em Boulder, Colorado, cidade conhecida por ser empreendedora por natureza.
+
+Com a aquisição da UP Global, a sua subsidiária UP Brasil tornou-se o braço de programas de comunidade Techstars no Brasil, sendo responsável pela manutenção e execução dos programas no país.
