@@ -12,7 +12,7 @@ Ao se trazer o público externo para um Startup Weekend Corporate, a organizaç�
 Uma das provocações que fazemos em eventos Startup Weekend é que os projetos desenvolvidos partam de problemas reais. Estes problemas podem ser de duas naturezas
 
 ### Problemas internos
-Neste modelo, os pitches da sexta-feira estarão delimitados pelo universo da instituição que está organizando o Startup Weekend. Recomendado para instituições que estão iniciando seus trabalhos em inovação.
+Neste modelo, os pitches da sexta-feira estarão delimitados pelo universo da instituição que está organizando o Startup Weekend. Este formato é interessante para instituições que estão iniciando seus trabalhos de inovação.
 
 ### Problemas externos
 Neste modelo os participantes estarão livres para escolher problemas em geral da sociedade para ser o ponto de partida de suas startups. Cumpre bem o propósito de posicionar a organização que promove o evento como inovadora e, em geral, gera bastante interesse da mídia.
