@@ -1,2 +1,6 @@
 # Sobre a Techstars
+A Techstars é um ecossistema global que empodera empreendedores para trazer novas tecnologias para os mercados em que eles escolhem viver. Com dezenas de programas de aceleração orientados a mentoria e milhares de programas de comunidades pelo mundo, a Techstars existe para dar suporte aos empreendedores mais promissores durante sua jornada, da inspiração ao IPO. A Techstars provê acesso a dezenas de milhares de líderes locais, founders, mentores, investidores e parceiros corporativos, permitindo que empreendedores acelerem o ritmo da inovação e consigam fazer mais, mais rápido. A Techstars dá suporte em todos os estágios da jornada do empreendedor, dos estágios iniciais de desenvolvimento de comunidades a iniciativas mais formais que fornecem educação, experiência, funding e mais.
 
+Visando expandir seus trabalhos no desenvolvimento de comunidades, a Techstars adquiriu em 2015 a UP Global, mantenedora dos programas Startup Weekend, Startup Next, Startup Week e Startup Digest. As iniciativas são hoje parte do braço de programas de comunidade da Techstars.
+
+A Techstars foi fundada por David Cohen, Brad Feld, David Brown e Jared Polis em 2006. Ela teve início em Boulder, Colorado, cidade conhecida por ser empreendedora por natureza.
