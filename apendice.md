@@ -11,5 +11,5 @@
 * [Value Proposition Canvas](http://mightywisemedia.com/media/VP-Canvas-Triggers_B1.pdf)
 * Folha de votação de projetos
 * Planilha financeira Startup Weekend Corporate
-* E-mail participantes manhã de sexta-feira
+* [E-mail participantes manhã de sexta-feira](https://docs.google.com/a/startupweekend.org/document/d/1dbhvNrrSDihKZZYE7kJfp_SNZxPNhU0oEqO4H3uPrq4/edit?usp=sharing)
 * E-mail participantes manhã de sábado
