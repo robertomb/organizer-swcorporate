@@ -21,7 +21,6 @@
 * [Marketing](marketing/marketing.md)
    * [Mensagem](marketing/mensagem.md)
    * [Trazendo participantes](marketing/participantes.md)
-   * [Promoção e Alcance](marketing/promocao.md)
 * [Finanças](financas/financas.md)
    * [Gerenciando as finanças](financas/gerenciandofinancas.md)
    * [Despesas típicas](financas/despesas.md)
