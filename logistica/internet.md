@@ -6,6 +6,6 @@ Os testes de internet e eletricidade devem ser feitos com antecedência, conside
 Alguns pontos a serem observados:
 
 * O link de internet disponível deve ser estável e veloz. Um link dedicado de 10 Mbps geralmente é suficiente.
-* Além de uma boa banda disponível, é importante ter uma quantidade suficiente de pontos de acesso wifi. Um ponto de acesso wifi tradicional costuma suportar de 20 a 25 usuários. A maior parte dos problemas com wifi se dá por um mal dimensionamento da quantidade de usuários que cada ponto de acesso suporta.
+* Além de uma boa banda disponível, é importante ter uma quantidade suficiente de pontos de acesso wifi. Um ponto de acesso wifi tradicional costuma suportar de 20 a 25 usuários. A maior parte dos problemas com wifi se dá por um mal dimensionamento da quantidade de usuários que cada ponto de acesso suporta. Caso você decida investir em pontos de acesso, algumas marcas recomendadas são Ubiquiti, Ruckus e Meraki.
 * Os participantes levarão muitos gadgets, portanto tenha bastante tomadas disponíveis. 
 * A carga elétrica total do prédio deve estar pronta para suportar a demanda do evento. Além de toda a demanda dos participantes, haverá uso de ar condicionado, iluminação e equipamentos de cozinha. É importante checar isso com antecedência.
