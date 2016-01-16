@@ -9,7 +9,7 @@
 * Checklist de logística
 * [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 * [Value Proposition Canvas](http://mightywisemedia.com/media/VP-Canvas-Triggers_B1.pdf)
-* Folha de votação de projetos
 * Planilha financeira Startup Weekend Corporate
 * [E-mail participantes manhã de sexta-feira](https://docs.google.com/a/startupweekend.org/document/d/1dbhvNrrSDihKZZYE7kJfp_SNZxPNhU0oEqO4H3uPrq4/edit?usp=sharing)
-* E-mail participantes manhã de sábado
+* [E-mail participantes manhã de sábado](https://docs.google.com/a/startupweekend.org/document/d/10nzoQ0u4JOqEVa6XTQXmXLZrjoJnYzodGDYQHCWg0Zw/edit?usp=sharing)
+* [E-mail participantes manhã de domingo](https://docs.google.com/a/startupweekend.org/document/d/1BS_0bnxdEkZXyoll4QKWBmRRY97ad2CeDepyFFFkQ18/edit?usp=sharing)
