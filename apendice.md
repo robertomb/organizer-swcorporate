@@ -6,10 +6,10 @@
 * [E-mail para alinhamento de jurados](https://docs.google.com/document/d/1QwkQFuNOX79M_f8R3mri1OrEVqZSS4keH7UCMan-RZg/edit?usp=sharing)
 * [Folha de critérios de julgamento](https://docs.google.com/document/d/1Z4NP2RsbJ_jY0gEb6okWNN6fQca--Z15WkUD4g7Ekp4/edit?usp=sharing)
 * [Folha de avaliação dos jurados](https://docs.google.com/spreadsheets/d/19ARtCosmafPqhzETj9nH2I1Ii05E7vLOGe82M2Gk98E/edit?usp=sharing)
-* Checklist de logística
+* [Checklist de logística](https://docs.google.com/a/startupweekend.org/document/d/1vTrKx7mf4Lw6oKLtkEEs6h9UDx_rVi2HnAGNvd2wC5k/edit?usp=sharing)
 * [Business Model Canvas](http://www.businessmodelgeneration.com/downloads/business_model_canvas_poster.pdf)
 * [Value Proposition Canvas](http://mightywisemedia.com/media/VP-Canvas-Triggers_B1.pdf)
-* Planilha financeira Startup Weekend Corporate
+* [Planilha financeira Startup Weekend Corporate](https://docs.google.com/spreadsheets/d/1LEO0464BjLaG2iuJSA2PgeAeJQduQEvatVlfUYVGK7g/edit?usp=sharing)
 * [E-mail participantes manhã de sexta-feira](https://docs.google.com/a/startupweekend.org/document/d/1dbhvNrrSDihKZZYE7kJfp_SNZxPNhU0oEqO4H3uPrq4/edit?usp=sharing)
 * [E-mail participantes manhã de sábado](https://docs.google.com/a/startupweekend.org/document/d/10nzoQ0u4JOqEVa6XTQXmXLZrjoJnYzodGDYQHCWg0Zw/edit?usp=sharing)
 * [E-mail participantes manhã de domingo](https://docs.google.com/a/startupweekend.org/document/d/1BS_0bnxdEkZXyoll4QKWBmRRY97ad2CeDepyFFFkQ18/edit?usp=sharing)
