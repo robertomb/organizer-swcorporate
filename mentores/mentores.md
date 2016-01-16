@@ -1,5 +1,5 @@
 # Mentores
-Os mentores são geralmente citados pelos participantes de um Startup Weekend como um dos recursos mais valiosos disponíveis em um Startup Weekend! Os mentores, por sua vez, enxergam grande valor no trabalho feito com os times durante um Startup Weekend. Não é raro que mentores continuem orientando empreendedores depois de um Startup Weekend.
+Os mentores são geralmente citados pelos participantes como um dos recursos mais valiosos disponíveis em um Startup Weekend! Os mentores, por sua vez, enxergam grande valor no trabalho feito com os times durante um Startup Weekend. Não é raro que mentores continuem orientando empreendedores depois de um Startup Weekend.
 
 Em um evento Startup Weekend Corporate geralmente balanceia-se os mentores entre convidados da rede Startup Weekend e profissionais e convidados da própria instituição organizadora do evento.
 
