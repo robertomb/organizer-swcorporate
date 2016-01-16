@@ -5,6 +5,8 @@ Identificar quem se quer atingir e a audiência ideal para o evento é um dos pr
 
 Ainda falando sobre audiência interna, desencorajamos fortemente que qualquer participante de um Startup Weekend Corporate seja "obrigado" a participar do evento. O evento não deve funcionar como horas normais de trabalho, mas sim como um momento de inspiração e aprendizagem. 
 
+Quando se traz público externo para o evento, deve ser tomado o cuidado de comunicar para este público que não se trata de "trabalho gratuito" para a marca promotora do evento, mas sim de uma oportunidade de aprender sobre inovação na prática, em companhia de outros empreendedores e dos mentores.
+
 ## Atraindo desenvolvedores
 Um dos melhores locais para se atrair desenvolvedores são as comunidades técnicas. Cada tecnologia costuma ter grupos no Facebook, listas de e-mails e outros locais de encontro digital que podem ser usados para divulgação. Alguns bons exemplos são grupos de usuários locais Java, .NET, PHP, Ruby on Rails, CSS, JavaScript etc. Comunidades formadas em torno de eventos técnicos também são um bom ponto de contato.
 
