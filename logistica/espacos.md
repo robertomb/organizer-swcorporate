@@ -18,7 +18,7 @@ Este é o local que os times usarão no decorrer do fim de semana para desenvolv
 Para este espaço, os seguintes requisitos mínimos devem ser considerados:
 
 * Cadeiras e mesas para acomodar todos os participantes. Em geral dividimos de 6 a 8 cadeiras por mesa de trabalho.
-* Internet! (vide sessão de Logística).
+* Internet! (vide [sessão específica sobre o assunto](../logistica/internet.md)).
 
 ## Outros espaços
 Além dos espaços essenciais, outros espaços extras podem contribuir para uma melhor experiência dos participantes.
