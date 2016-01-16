@@ -1,2 +1,0 @@
-# Promoção e Alcance
-
